@@ -1,0 +1,19 @@
+{
+  "name": "igniting-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekyneha/ignite-app.git"
+  },
+  "author": "Neha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekyneha/ignite-app/issues"
+  },
+  "homepage": "https://github.com/geekyneha/ignite-app#readme"
+}
