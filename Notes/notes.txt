@@ -1,0 +1,21 @@
+Parcel
+
+It is a bundler that does a lot stuff behind the scene for us. It optimizes our app and buldles things up.
+
+-Dev build
+-local server 
+-HMR - HOT MOodule Replacemen
+-File Watching Algorithm - written in CSS
+-Reliable caching- faster build
+-Image Optimization
+- Code splitting
+-Error halndling
+-Beautiful Diagnostic
+-cotent hashing 
+-minification
+-compress
+-bundling
+-Tree Shaking - romve unused code
+- Differential bundling - to support different browsers/older version
+- Different dev and prod build
+- Native performance
